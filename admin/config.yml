@@ -1,7 +1,9 @@
 backend:
   name: github
-  repo: YOUR_USERNAME/YOUR_USERNAME.github.io
+  repo: deepanshuk2002/theindianfilmreporter.github.io
   branch: main
+
+site_url: https://theindianfilmreporter.github.io
 
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
