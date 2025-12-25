@@ -3,7 +3,7 @@ backend:
   repo: deepanshuk2002/theindianfilmreporter.github.io
   branch: main
 
-site_url: https://theindianfilmreporter.github.io
+site_url: https://deepanshuk2002.github.io/theindianfilmreporter.github.io
 
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
